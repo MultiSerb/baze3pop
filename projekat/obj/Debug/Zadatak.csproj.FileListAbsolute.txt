@@ -1,0 +1,16 @@
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\bin\Debug\Zadatak.exe.config
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\bin\Debug\Zadatak.exe
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\bin\Debug\Zadatak.pdb
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\obj\Debug\Zadatak.exe
+E:\FAX\FAJLOVI\3. GODINA\SEMESTAR 5\BP\Vezbe\C#\PROJEKAT\G2_AH\Z3_PR_42_2019_G2\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\rastko\Desktop\bazeC#\G2_AH\Projekat\Zadatak\obj\Debug\Zadatak.pdb
